@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a34cedc-5939-4f21-9628-3e1043fcebbd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Programs\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U8bZWG7QL0Gh946oB0xdxWFAT4" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest.mySimpleTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so" />
+      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
+      <option name="METHOD_NAME" value="mySimpleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest.mySimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleTest" />
+      <option name="METHOD_NAME" value="mySimpleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so" />
+      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
+      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so" />
+      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
+      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="so.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="so" />
+      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
+      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand" />
+        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand (2)" />
+        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand (1)" />
+        <item itemvalue="TestNG.SimpleTest.mySimpleTest (1)" />
+        <item itemvalue="TestNG.SimpleTest.mySimpleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a34cedc-5939-4f21-9628-3e1043fcebbd" name="Default Changelist" comment="" />
+      <created>1574741224046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574741224046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
+          <line>159</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
+          <line>150</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
+          <line>133</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
+          <line>156</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/html/ResultPageWriter.class</url>
+          <line>158</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
+          <line>119</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimpleTest$SimpleTest_mySimpleTest.ic" NAME="SimpleTest.mySimpleTest Coverage Results" MODIFIED="1574744367818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
