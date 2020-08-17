@@ -1,58 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a34cedc-5939-4f21-9628-3e1043fcebbd" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3ecaf76a-f66f-4647-9153-52b55810d25c" name="Default" comment="Initial setup">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/so/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/so/SimpleTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="FavoritesManager">
+    <favorites_list name="SimpleTest" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="Class" />
+        <option value="Smitamane" />
       </list>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="userSettingsFile" value="C:\Programs\maven\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectId" id="1fwpt8riwi1LMFEhQr3OOoJlP8n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="ProjectId" id="1U8bZWG7QL0Gh946oB0xdxWFAT4" />
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/svn/Enwisen/QA Documents/Test Automation/ASI Automation 2020" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand">
-    <configuration default="true" type="Applet">
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -62,12 +53,12 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleTest.mySimpleTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SimpleTest" />
       <extension name="coverage">
         <pattern>
@@ -77,79 +68,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="so" />
       <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
-      <option name="METHOD_NAME" value="mySimpleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleTest.mySimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SimpleTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SimpleTest" />
-      <option name="METHOD_NAME" value="mySimpleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SimpleTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="so.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="so" />
-      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
-      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SimpleTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="so.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="so" />
-      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
-      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleTest.validateEmployeeReportForAdminSaleryBand" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SimpleTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="so.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="so" />
-      <option name="MAIN_CLASS_NAME" value="so.SimpleTest" />
-      <option name="METHOD_NAME" value="validateEmployeeReportForAdminSaleryBand" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
       <method v="2">
@@ -158,7 +78,7 @@
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
       <method v="2">
@@ -176,11 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand" />
-        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand (2)" />
-        <item itemvalue="TestNG.SimpleTest.validateEmployeeReportForAdminSaleryBand (1)" />
-        <item itemvalue="TestNG.SimpleTest.mySimpleTest (1)" />
-        <item itemvalue="TestNG.SimpleTest.mySimpleTest" />
+        <item itemvalue="TestNG.SimpleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -189,51 +105,66 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a34cedc-5939-4f21-9628-3e1043fcebbd" name="Default Changelist" comment="" />
-      <created>1574741224046</created>
+      <changelist id="3ecaf76a-f66f-4647-9153-52b55810d25c" name="Default" comment="" />
+      <created>1580625690688</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574741224046</updated>
+      <updated>1580625690688</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
-          <line>159</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
-          <line>150</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
-          <line>133</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
-          <line>156</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/html/ResultPageWriter.class</url>
-          <line>158</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/wanikirtesh/sbnreporter_lite/1.0.1/sbnreporter_lite-1.0.1.jar!/com/sbn/reports/listners/TestListener.class</url>
-          <line>119</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial setup" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SimpleTest$SimpleTest_mySimpleTest.ic" NAME="SimpleTest.mySimpleTest Coverage Results" MODIFIED="1574744367818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  <component name="WindowStateProjectService">
+    <state x="379" y="0" key="CommitChangelistDialog2" timestamp="1597220765676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597220765676" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1597219925383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597219925383" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1597151279816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597151279816" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1597151279815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597151279815" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1597151279815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597151279815" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1597151279816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597151279816" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1597645489769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597645489769" />
+    <state x="65" y="0" key="new project wizard" timestamp="1597216708051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597216708051" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
